@@ -5,6 +5,7 @@
 
 # calva REPL port
 .nrepl-port
+output.calva-repl
 
 # User-specific files
 *.suo
