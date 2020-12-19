@@ -3,7 +3,8 @@
 	"dockerFile": "Dockerfile",
 	"extensions": [
 		"betterthantomorrow.calva",
-		"tonsky.clojure-warrior"
+		"borkdude.clj-kondo",
+		"avli.clojure"
 	],
 	"settings":{
 		"calva.jokerPath": "/usr/bin"
